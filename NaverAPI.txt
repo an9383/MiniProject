@@ -1,0 +1,5 @@
+Client ID
+prkSgGWHtuYuZJYCZJ3i
+
+Client Secret
+D7btatUOL8
